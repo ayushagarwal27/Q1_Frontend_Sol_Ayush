@@ -1,0 +1,3 @@
+[submodule "1.solana_dapp_starter"]
+	path = 1.solana_dapp_starter
+	url = https://github.com/ayushagarwal27/solana_dapp_starter
